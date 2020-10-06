@@ -3313,6 +3313,8 @@ require('@unicode/unicode-13.0.0/Sequence_Property/Basic_Emoji/index.js'); // ar
 
 require('@unicode/unicode-13.0.0/Sequence_Property/Emoji_Keycap_Sequence/index.js'); // array containing a string for each sequence
 
+require('@unicode/unicode-13.0.0/Sequence_Property/RGI_Emoji/index.js'); // array containing a string for each sequence
+
 require('@unicode/unicode-13.0.0/Sequence_Property/RGI_Emoji_Flag_Sequence/index.js'); // array containing a string for each sequence
 
 require('@unicode/unicode-13.0.0/Sequence_Property/RGI_Emoji_Modifier_Sequence/index.js'); // array containing a string for each sequence
