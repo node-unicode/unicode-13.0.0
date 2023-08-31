@@ -2069,6 +2069,10 @@ require('@unicode/unicode-13.0.0/Block/CJK_Unified_Ideographs_Extension_F/code-p
 require('@unicode/unicode-13.0.0/Block/CJK_Unified_Ideographs_Extension_F/symbols.js');
 require('@unicode/unicode-13.0.0/Block/CJK_Unified_Ideographs_Extension_F/regex.js');
 
+require('@unicode/unicode-13.0.0/Block/CJK_Unified_Ideographs_Extension_G/code-points.js');
+require('@unicode/unicode-13.0.0/Block/CJK_Unified_Ideographs_Extension_G/symbols.js');
+require('@unicode/unicode-13.0.0/Block/CJK_Unified_Ideographs_Extension_G/regex.js');
+
 require('@unicode/unicode-13.0.0/Block/Carian/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Carian/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Carian/regex.js');
@@ -2096,6 +2100,10 @@ require('@unicode/unicode-13.0.0/Block/Cherokee_Supplement/regex.js');
 require('@unicode/unicode-13.0.0/Block/Chess_Symbols/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Chess_Symbols/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Chess_Symbols/regex.js');
+
+require('@unicode/unicode-13.0.0/Block/Chorasmian/code-points.js');
+require('@unicode/unicode-13.0.0/Block/Chorasmian/symbols.js');
+require('@unicode/unicode-13.0.0/Block/Chorasmian/regex.js');
 
 require('@unicode/unicode-13.0.0/Block/Combining_Diacritical_Marks/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Combining_Diacritical_Marks/symbols.js');
@@ -2189,6 +2197,10 @@ require('@unicode/unicode-13.0.0/Block/Dingbats/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Dingbats/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Dingbats/regex.js');
 
+require('@unicode/unicode-13.0.0/Block/Dives_Akuru/code-points.js');
+require('@unicode/unicode-13.0.0/Block/Dives_Akuru/symbols.js');
+require('@unicode/unicode-13.0.0/Block/Dives_Akuru/regex.js');
+
 require('@unicode/unicode-13.0.0/Block/Dogra/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Dogra/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Dogra/regex.js');
@@ -2205,6 +2217,10 @@ require('@unicode/unicode-13.0.0/Block/Early_Dynastic_Cuneiform/code-points.js')
 require('@unicode/unicode-13.0.0/Block/Early_Dynastic_Cuneiform/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Early_Dynastic_Cuneiform/regex.js');
 
+require('@unicode/unicode-13.0.0/Block/Egyptian_Hieroglyph_Format_Controls/code-points.js');
+require('@unicode/unicode-13.0.0/Block/Egyptian_Hieroglyph_Format_Controls/symbols.js');
+require('@unicode/unicode-13.0.0/Block/Egyptian_Hieroglyph_Format_Controls/regex.js');
+
 require('@unicode/unicode-13.0.0/Block/Egyptian_Hieroglyphs/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Egyptian_Hieroglyphs/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Egyptian_Hieroglyphs/regex.js');
@@ -2212,6 +2228,10 @@ require('@unicode/unicode-13.0.0/Block/Egyptian_Hieroglyphs/regex.js');
 require('@unicode/unicode-13.0.0/Block/Elbasan/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Elbasan/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Elbasan/regex.js');
+
+require('@unicode/unicode-13.0.0/Block/Elymaic/code-points.js');
+require('@unicode/unicode-13.0.0/Block/Elymaic/symbols.js');
+require('@unicode/unicode-13.0.0/Block/Elymaic/regex.js');
 
 require('@unicode/unicode-13.0.0/Block/Emoticons/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Emoticons/symbols.js');
@@ -2433,6 +2453,10 @@ require('@unicode/unicode-13.0.0/Block/Kharoshthi/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Kharoshthi/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Kharoshthi/regex.js');
 
+require('@unicode/unicode-13.0.0/Block/Khitan_Small_Script/code-points.js');
+require('@unicode/unicode-13.0.0/Block/Khitan_Small_Script/symbols.js');
+require('@unicode/unicode-13.0.0/Block/Khitan_Small_Script/regex.js');
+
 require('@unicode/unicode-13.0.0/Block/Khmer/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Khmer/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Khmer/regex.js');
@@ -2508,6 +2532,10 @@ require('@unicode/unicode-13.0.0/Block/Linear_B_Syllabary/regex.js');
 require('@unicode/unicode-13.0.0/Block/Lisu/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Lisu/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Lisu/regex.js');
+
+require('@unicode/unicode-13.0.0/Block/Lisu_Supplement/code-points.js');
+require('@unicode/unicode-13.0.0/Block/Lisu_Supplement/symbols.js');
+require('@unicode/unicode-13.0.0/Block/Lisu_Supplement/regex.js');
 
 require('@unicode/unicode-13.0.0/Block/Low_Surrogates/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Low_Surrogates/symbols.js');
@@ -2665,6 +2693,10 @@ require('@unicode/unicode-13.0.0/Block/Nabataean/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Nabataean/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Nabataean/regex.js');
 
+require('@unicode/unicode-13.0.0/Block/Nandinagari/code-points.js');
+require('@unicode/unicode-13.0.0/Block/Nandinagari/symbols.js');
+require('@unicode/unicode-13.0.0/Block/Nandinagari/regex.js');
+
 require('@unicode/unicode-13.0.0/Block/New_Tai_Lue/code-points.js');
 require('@unicode/unicode-13.0.0/Block/New_Tai_Lue/symbols.js');
 require('@unicode/unicode-13.0.0/Block/New_Tai_Lue/regex.js');
@@ -2680,6 +2712,10 @@ require('@unicode/unicode-13.0.0/Block/Number_Forms/regex.js');
 require('@unicode/unicode-13.0.0/Block/Nushu/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Nushu/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Nushu/regex.js');
+
+require('@unicode/unicode-13.0.0/Block/Nyiakeng_Puachue_Hmong/code-points.js');
+require('@unicode/unicode-13.0.0/Block/Nyiakeng_Puachue_Hmong/symbols.js');
+require('@unicode/unicode-13.0.0/Block/Nyiakeng_Puachue_Hmong/regex.js');
 
 require('@unicode/unicode-13.0.0/Block/Ogham/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Ogham/symbols.js');
@@ -2740,6 +2776,10 @@ require('@unicode/unicode-13.0.0/Block/Osage/regex.js');
 require('@unicode/unicode-13.0.0/Block/Osmanya/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Osmanya/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Osmanya/regex.js');
+
+require('@unicode/unicode-13.0.0/Block/Ottoman_Siyaq_Numbers/code-points.js');
+require('@unicode/unicode-13.0.0/Block/Ottoman_Siyaq_Numbers/symbols.js');
+require('@unicode/unicode-13.0.0/Block/Ottoman_Siyaq_Numbers/regex.js');
 
 require('@unicode/unicode-13.0.0/Block/Pahawh_Hmong/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Pahawh_Hmong/symbols.js');
@@ -2833,6 +2873,10 @@ require('@unicode/unicode-13.0.0/Block/Small_Form_Variants/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Small_Form_Variants/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Small_Form_Variants/regex.js');
 
+require('@unicode/unicode-13.0.0/Block/Small_Kana_Extension/code-points.js');
+require('@unicode/unicode-13.0.0/Block/Small_Kana_Extension/symbols.js');
+require('@unicode/unicode-13.0.0/Block/Small_Kana_Extension/regex.js');
+
 require('@unicode/unicode-13.0.0/Block/Sogdian/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Sogdian/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Sogdian/regex.js');
@@ -2905,6 +2949,14 @@ require('@unicode/unicode-13.0.0/Block/Syloti_Nagri/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Syloti_Nagri/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Syloti_Nagri/regex.js');
 
+require('@unicode/unicode-13.0.0/Block/Symbols_And_Pictographs_Extended_A/code-points.js');
+require('@unicode/unicode-13.0.0/Block/Symbols_And_Pictographs_Extended_A/symbols.js');
+require('@unicode/unicode-13.0.0/Block/Symbols_And_Pictographs_Extended_A/regex.js');
+
+require('@unicode/unicode-13.0.0/Block/Symbols_For_Legacy_Computing/code-points.js');
+require('@unicode/unicode-13.0.0/Block/Symbols_For_Legacy_Computing/symbols.js');
+require('@unicode/unicode-13.0.0/Block/Symbols_For_Legacy_Computing/regex.js');
+
 require('@unicode/unicode-13.0.0/Block/Syriac/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Syriac/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Syriac/regex.js');
@@ -2949,6 +3001,10 @@ require('@unicode/unicode-13.0.0/Block/Tamil/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Tamil/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Tamil/regex.js');
 
+require('@unicode/unicode-13.0.0/Block/Tamil_Supplement/code-points.js');
+require('@unicode/unicode-13.0.0/Block/Tamil_Supplement/symbols.js');
+require('@unicode/unicode-13.0.0/Block/Tamil_Supplement/regex.js');
+
 require('@unicode/unicode-13.0.0/Block/Tangut/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Tangut/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Tangut/regex.js');
@@ -2956,6 +3012,10 @@ require('@unicode/unicode-13.0.0/Block/Tangut/regex.js');
 require('@unicode/unicode-13.0.0/Block/Tangut_Components/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Tangut_Components/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Tangut_Components/regex.js');
+
+require('@unicode/unicode-13.0.0/Block/Tangut_Supplement/code-points.js');
+require('@unicode/unicode-13.0.0/Block/Tangut_Supplement/symbols.js');
+require('@unicode/unicode-13.0.0/Block/Tangut_Supplement/regex.js');
 
 require('@unicode/unicode-13.0.0/Block/Telugu/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Telugu/symbols.js');
@@ -3017,9 +3077,17 @@ require('@unicode/unicode-13.0.0/Block/Vertical_Forms/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Vertical_Forms/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Vertical_Forms/regex.js');
 
+require('@unicode/unicode-13.0.0/Block/Wancho/code-points.js');
+require('@unicode/unicode-13.0.0/Block/Wancho/symbols.js');
+require('@unicode/unicode-13.0.0/Block/Wancho/regex.js');
+
 require('@unicode/unicode-13.0.0/Block/Warang_Citi/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Warang_Citi/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Warang_Citi/regex.js');
+
+require('@unicode/unicode-13.0.0/Block/Yezidi/code-points.js');
+require('@unicode/unicode-13.0.0/Block/Yezidi/symbols.js');
+require('@unicode/unicode-13.0.0/Block/Yezidi/regex.js');
 
 require('@unicode/unicode-13.0.0/Block/Yi_Radicals/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Yi_Radicals/symbols.js');
@@ -3036,10 +3104,6 @@ require('@unicode/unicode-13.0.0/Block/Yijing_Hexagram_Symbols/regex.js');
 require('@unicode/unicode-13.0.0/Block/Zanabazar_Square/code-points.js');
 require('@unicode/unicode-13.0.0/Block/Zanabazar_Square/symbols.js');
 require('@unicode/unicode-13.0.0/Block/Zanabazar_Square/regex.js');
-
-require('@unicode/unicode-13.0.0/Block/undefined/code-points.js');
-require('@unicode/unicode-13.0.0/Block/undefined/symbols.js');
-require('@unicode/unicode-13.0.0/Block/undefined/regex.js');
 
 // `Bidi_Mirroring_Glyph`:
 
