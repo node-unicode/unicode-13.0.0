@@ -3399,6 +3399,20 @@ require('@unicode/unicode-13.0.0/Sequence_Property/RGI_Emoji_Tag_Sequence/index.
 
 require('@unicode/unicode-13.0.0/Sequence_Property/RGI_Emoji_ZWJ_Sequence/index.js'); // array containing a string for each sequence
 
+// `Simple_Case_Mapping`:
+
+require('@unicode/unicode-13.0.0/Simple_Case_Mapping/Lowercase/code-points.js');
+require('@unicode/unicode-13.0.0/Simple_Case_Mapping/Lowercase/symbols.js');
+require('@unicode/unicode-13.0.0/Simple_Case_Mapping/Lowercase/regex.js');
+
+require('@unicode/unicode-13.0.0/Simple_Case_Mapping/Titlecase/code-points.js');
+require('@unicode/unicode-13.0.0/Simple_Case_Mapping/Titlecase/symbols.js');
+require('@unicode/unicode-13.0.0/Simple_Case_Mapping/Titlecase/regex.js');
+
+require('@unicode/unicode-13.0.0/Simple_Case_Mapping/Uppercase/code-points.js');
+require('@unicode/unicode-13.0.0/Simple_Case_Mapping/Uppercase/symbols.js');
+require('@unicode/unicode-13.0.0/Simple_Case_Mapping/Uppercase/regex.js');
+
 // `Special_Casing`:
 
 require('@unicode/unicode-13.0.0/Special_Casing/Lowercase/code-points.js'); // lookup map from code point to code point or array of code points
