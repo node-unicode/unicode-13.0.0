@@ -1,2 +1,2 @@
-const data: string[];
-export default data;
+declare const data: string[];
+export = data;
