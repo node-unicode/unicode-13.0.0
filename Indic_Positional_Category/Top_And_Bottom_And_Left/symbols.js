@@ -1,0 +1,1 @@
+module.exports=['\u103C','\uD805\uDF1E']
