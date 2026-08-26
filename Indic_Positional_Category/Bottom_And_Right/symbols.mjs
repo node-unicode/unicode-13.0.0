@@ -1,0 +1,1 @@
+export default ['\u1B3B','\uA9BE','\uA9C0','\uD806\uDD42'];

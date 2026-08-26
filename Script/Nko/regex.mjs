@@ -1,0 +1,1 @@
+export default /[\u07C0-\u07FA\u07FD-\u07FF]/;
