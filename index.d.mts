@@ -19,3 +19,4 @@ export const Sequence_Property: string[];
 export const Names: string[];
 export const Simple_Case_Mapping: string[];
 export const Special_Casing: string[];
+export const Decomposition_Mapping: string[];
